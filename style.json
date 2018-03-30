@@ -2,7 +2,7 @@
  "featureType": "all",
   "stylers": {
   "saturation": -0.2,
-  "lightness": 0.9
+  "lightness": 0.2
   }
   }, {
   "featureType": "admin",
