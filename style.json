@@ -1,0 +1,133 @@
+[{
+ "featureType": "all",
+  "stylers": {
+  "saturation": -0.2,
+  "lightness": 0.2
+  }
+  }, {
+  "featureType": "admin",
+  "stylers": {
+  "color": "#F5F3EB"
+  }
+  }, {
+  "featureType": "urban-area",
+  "stylers": {
+  "color": "#F5F3EB"
+  }
+  }, {
+  "featureType": "vegetation",
+  "stylers": {
+  "color": "#C8E8B8"
+  }
+  }, {
+  "featureType": "hydro",
+  "stylers": {
+  "color": "#C0E9F6"
+  }
+  }, {
+  "featureType": "building",
+  "stylers": {
+  "color": "#FFFFFF",
+  "opacity": 0.95
+  }
+  }, {
+  "featureType": "label.transport",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.vegetation",
+  "zooms": "1-16",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.road.marker",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.hydro",
+  "zooms": "1-16",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.transport.station.metro",
+  "zooms": "16-18",
+  "stylers": {
+  "visibility": "on"
+  }
+  }, {
+  "featureType": "poi",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.road",
+  "stylers": {
+  "color": "#000000",
+  "stroke-color": "#ffffff",
+  "opacity": 0.55
+  }
+  }, {
+  "featureType": "road.local.pedestrian",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "transport.line",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.road.toll",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.road.trafficlight",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "road.local.bike",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "road",
+  "stylers": {
+  "color": "#ffffff",
+  "outline-color": "#eeeeee",
+  "opacity": 0.90
+  }
+  }, {
+  "featureType": "road.local.direction",
+  "zooms": "1-18",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "road.highway.direction",
+  "zooms": "1-18",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.building",
+  "zooms": "16-17",
+  "stylers": {
+  "visibility": "off"
+  }
+  }, {
+  "featureType": "label.road",
+  "stylers": {
+  "outline-color": "#fff"
+  }
+  }, {
+  "featureType": "label.vegetation",
+  "stylers": {
+  "image-url": ""
+  }
+  }]
